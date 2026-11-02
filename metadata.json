@@ -1,0 +1,6 @@
+{
+  "name": "Remontada — ASTRA HEALTH",
+  "description": "Autonomous crew health guidance system, real-time physiological telemetry, AI doctor avatar comms, biophilic nature relaxation therapy, and NASA spaceflight medicine heritage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

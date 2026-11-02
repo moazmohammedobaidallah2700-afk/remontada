@@ -1,0 +1,508 @@
+Gemini
+Role & Goal:
+Create a dark-themed, space-inspired web page / presentation landing page for a project named "ASTRA HEALTH (Autonomous Crew Health Guidance System)". The landing page should introduce the project and end with a prominent Call-To-Action (CTA) section linking directly to the ASTRA HEALTH web application.
+Design & Style Guide:
+Theme: Dark technical mode (Deep space theme: dark backgrounds #0A0E17, dark blue/grey containers #121824, futuristic high-tech HUD styling, neon/cyan accents, clear status badges).
+Typography: Modern sans-serif, bold italic headers for section titles, clear structured bullet points.
+Page Structure & Content Sections:
+Hero / Logo Banner:
+Top centered banner/logo image displaying "remontada" with space graphics (rocket, moon, stars).
+Main Title: Project Name: ASTRA HEALTH (Autonomous Crew Health Guidance System).
+Mission & Objective Section:
+Text: "Our project aims to establish a sports and physical fitness system to preserve the physical health of astronauts and improve their physical fitness."
+Accompanying image/graphic: Astronaut floating in space / zero-gravity activity.
+AI Solution Overview:
+Text card: "The project features heartbeat tracking and monitoring the astronaut's health, both psychological and physical."
+Deep-space background with a floating astronaut graphic.
+Explanation Card: "Our project relies on using a website-specific artificial intelligence, and this AI takes astronaut health data such as heart rate, begins analyzing it, and starts guiding the astronaut on how to solve this health problem."
+Photo of an astronaut looking through a spaceship window.
+Project Concept Brief Section:
+Text box explaining: "The project is a User Interface (UI) for a comprehensive medical application designed for astronauts. Its primary goal is to monitor their health and solve medical issues during deep-space missions. The application is designed with a dark technical theme (Dark Mode) suitable for the space environment."
+Interface & Key Capabilities Details (Bulleted List):
+Section Header: Interface and Data Details:
+Bullets:
+Top Header & Telemetry: Displays system name (ASTRA HEALTH, v3.2), real-time Mission Elapsed Time (MET) counter, telemetry status, and Earth communication light-delay indicator (14m 24s).
+Personal Health Profile: Astronaut ID, resting vitals baselines, allergies, NASA-STD-3001 protocols, and quick presets for crew members (Cmdr. Alex Vance, Dr. Elena Rostova, Specialist Marcus Chen).
+Medical Kit & Training: Onboard pharmacy inventory tracking, expiration alerts, and interactive NASA-STD-3001 first-aid quizzes.
+AI Medical Assistant (Check My Health): Guided 3-step symptom collection, biometric sensor telemetry imports, and AI-powered diagnostic guidance using Gemini.
+Emergency SOS System: Red EMERGENCY SOS button accessible from every screen with an audible two-tone browser siren, full-screen HUD, and voice-free status chips.
+Health Trends & Reporting: Visual longitudinal charts for vitals and one-click exportable clinical telemetry reports for Mission Control.
+Multimodal & Bioscience Hub: Integration with openFDA, PubMed, NASA Research References, neuro-acoustics sleep induction audio, and AI medical imaging/video generation.
+Interactive Dashboard Preview Showcase:
+Futuristic dashboard header showing navigation tabs:
+My Health Profile
+Medical Kit & Training
+Check My Health (Active/Highlighted)
+Emergency SOS (Red Accent)
+Health History
+Step preview: STEP 1 OF 3: PRIMARY SYMPTOMS - "How are you feeling right now?"
+Call To Action (App Link / Launch Section):
+Banner Section at the bottom:
+Headline: "Experience ASTRA HEALTH Live System"
+Subtext: "Launch the AI-powered crew health guidance interface and explore real-time spaceflight medical telemetry."
+Prominent Button: [ Launch ASTRA HEALTH App ] linking to the deployed application URL (/app or #).
+Technical Stack Requirements:
+Build using HTML, Tailwind CSS, and Vanilla JavaScript (or React/Next.js) with smooth scroll animations, high-contrast dark space UI components, responsive layout, and interactive preview components for seamless data visualization and performance metrics across all screen sizes.Role & Goal:
+Create a dark-themed, space-inspired web page / presentation landing page for a project named "ASTRA HEALTH (Autonomous Crew Health Guidance System)". The landing page should introduce the project and end with a prominent Call-To-Action (CTA) section linking directly to the ASTRA HEALTH web application.
+Design & Style Guide:
+Theme: Dark technical mode (Deep space theme: dark backgrounds #0A0E17, dark blue/grey containers #121824, futuristic high-tech HUD styling, neon/cyan accents, clear status badges).
+Typography: Modern sans-serif, bold italic headers for section titles, clear structured bullet points.
+Page Structure & Content Sections:
+Hero / Logo Banner:
+Top centered banner/logo image displaying "remontada" with space graphics (rocket, moon, stars).
+Main Title: Project Name: ASTRA HEALTH (Autonomous Crew Health Guidance System).
+Mission & Objective Section:
+Text: "Our project aims to establish a sports and physical fitness system to preserve the physical health of astronauts and improve their physical fitness."
+Accompanying image/graphic: Astronaut floating in space / zero-gravity activity.
+AI Solution Overview:
+Text card: "The project features heartbeat tracking and monitoring the astronaut's health, both psychological and physical."
+Deep-space background with a floating astronaut graphic.
+Explanation Card: "Our project relies on using a website-specific artificial intelligence, and this AI takes astronaut health data such as heart rate, begins analyzing it, and starts guiding the astronaut on how to solve this health problem."
+Photo of an astronaut looking through a spaceship window.
+Project Concept Brief Section:
+Text box explaining: "The project is a User Interface (UI) for a comprehensive medical application designed for astronauts. Its primary goal is to monitor their health and solve medical issues during deep-space missions. The application is designed with a dark technical theme (Dark Mode) suitable for the space environment."
+Interface & Key Capabilities Details (Bulleted List):
+Section Header: Interface and Data Details:
+Bullets:
+Top Header & Telemetry: Displays system name (ASTRA HEALTH, v3.2), real-time Mission Elapsed Time (MET) counter, telemetry status, and Earth communication light-delay indicator (14m 24s).
+Personal Health Profile: Astronaut ID, resting vitals baselines, allergies, NASA-STD-3001 protocols, and quick presets for crew members (Cmdr. Alex Vance, Dr. Elena Rostova, Specialist Marcus Chen).
+Medical Kit & Training: Onboard pharmacy inventory tracking, expiration alerts, and interactive NASA-STD-3001 first-aid quizzes.
+AI Medical Assistant (Check My Health): Guided 3-step symptom collection, biometric sensor telemetry imports, and AI-powered diagnostic guidance using Gemini.
+Emergency SOS System: Red EMERGENCY SOS button accessible from every screen with an audible two-tone browser siren, full-screen HUD, and voice-free status chips.
+Health Trends & Reporting: Visual longitudinal charts for vitals and one-click exportable clinical telemetry reports for Mission Control.
+Multimodal & Bioscience Hub: Integration with openFDA, PubMed, NASA Research References, neuro-acoustics sleep induction audio, and AI medical imaging/video generation.
+Interactive Dashboard Preview Showcase:
+Futuristic dashboard header showing navigation tabs:
+My Health Profile
+Medical Kit & Training
+Check My Health (Active/Highlighted)
+Emergency SOS (Red Accent)
+Health History
+Step preview: STEP 1 OF 3: PRIMARY SYMPTOMS - "How are you feeling right now?"
+Call To Action (App Link / Launch Section):
+Banner Section at the bottom:
+Headline: "Experience ASTRA HEALTH Live System"
+Subtext: "Launch the AI-powered crew health guidance interface and explore real-time spaceflight medical telemetry."
+Prominent Button: [ Launch ASTRA HEALTH App ] linking to the deployed application URL (/app or #).
+Technical Stack Requirements:
+Build using HTML, Tailwind CSS, and Vanilla JavaScript (or React/Next.js) with smooth scroll animations, high-contrast dark space UI components, responsive layout, and interactive preview components
+Gemini 3.8 Flash
+Ran for 25s
+
+summarize_auto
+Action history
+chevron_right
+THE NAME OF PROJECT IS Remontada
+Gemini 3.8 Flash
+Ran for 38s
+
+summarize_auto
+Action history
+chevron_right
+Here are key actions taken for the app:
+
+edit
+Edited 3 files
+metadata.json
+check_circle
+index.html
+check_circle
+src/index.css
+check_circle
+Create a dynamic 'Real-time Telemetry Dashboard' section for the ASTRA HEALTH landing page. This section should display simulated real-time data including Mission Elapsed Time (MET), simulated vital signs (heart rate, blood pressure), and system status indicators. Use futuristic HUD styling with neon/cyan accents and ensure it's responsive. The data should update at intervals to simulate live feed.
+Develop an interactive 'Medical Training Module Preview' for the ASTRA HEALTH landing page. This preview should include a header for 'Medical Kit & Training', a brief description, and an interactive element like a sample multiple-choice question from the NASA-STD-3001 first-aid quiz. The styling should match the dark, technical, space-inspired theme.
+Create a dynamic 'Real-time Telemetry Dashboard' section for the ASTRA HEALTH landing page. This section should display simulated real-time data including Mission Elapsed Time (MET), simulated vital signs (heart rate, blood pressure), and system status indicators. Use futuristic HUD styling with neon/cyan accents and ensure it's responsive. The data should update at intervals to simulate live feed.
+.
+Gemini 3.8 Flash
+Ran for 5m 10s
+
+summarize_auto
+Action history
+chevron_right
+Here are key actions taken for the app:
+
+edit
+Edited 13 files
+src/types/telemetry.ts
+check_circle
+src/utils/audioSiren.ts
+check_circle
+src/components/TopNav.tsx
+check_circle
+src/components/HeroBanner.tsx
+check_circle
+src/components/MissionObjective.tsx
+check_circle
+src/components/AISolutionOverview.tsx
+check_circle
+src/components/ConceptBrief.tsx
+check_circle
+src/components/CapabilitiesList.tsx
+check_circle
+src/components/LiveTelemetryDashboard.tsx
+check_circle
+src/components/MedicalTrainingModule.tsx
+check_circle
+src/components/InteractiveDashboardPreview.tsx
+check_circle
+src/components/CallToAction.tsx
+check_circle
+src/components/EmergencyModal.tsx
+check_circle
+الحاجات اللي لازم نتابعها في ال system بتاعنا
+Space radiation
+Heart rate & ECG
+Blood pressure
+Respiratory health & Rate
+Blood oxygen
+Immune system
+Skin temperature
+Body fluid changes
+Bone & muscle health
+Muscle Strength & Activity
+Sleep & Behavioural health
+Mood, stress & Cognitive Performance
+Physical activity
+Vision Changes
+Body fluid changes
+Nutrition & Hydrogen
+Gemini 3.8 Flash
+Ran for 2m 3s
+
+summarize_auto
+Action history
+chevron_right
+Here are key actions taken for the app:
+
+edit
+Edited 3 files
+src/components/HealthMonitoringMatrix.tsx
+check_circle
+src/components/AppConsoleModal.tsx
+check_circle
+src/App.tsx
+check_circle
+build
+Built
+Remontada — ASTRA HEALTH (Autonomous Crew Health Guidance System)
+The presentation landing page and interactive mission telemetry system for Remontada (ASTRA HEALTH) is now live, styled with a deep-space technical HUD dark theme (#0A0E17 background, #121824 containers, and laser cyan #06B6D4 accents).
+Core Sections & Features Implemented
+Top Bar Contract Navigation
+Clean 3-zone layout: Brand wordmark (Remontada), single-line navigation links (Mission, AI Guidance, Real-Time Telemetry, Medical Training, Interactive HUD), and primary CTA action button (Launch ASTRA HEALTH).
+Hero & Remontada Space Emblem Banner
+Centered banner emblem featuring the "remontada" mission insignia with rocket, moon, and stars.
+Real-time ticking Mission Elapsed Time (MET) counter, Earth light-delay indicator (14m 24s), and autonomous telemetry uplink status.
+Headline and subtext presenting the ASTRA HEALTH (Autonomous Crew Health Guidance System).
+Mission & Objective Section
+Incorporates the required mission statement: "Our project aims to establish a sports and physical fitness system to preserve the physical health of astronauts and improve their physical fitness."
+Cinematic photography of an astronaut exercising in microgravity inside an orbital cupola module.
+Structured details on the Advanced Resistive Exercise Device (ARED), cardiovascular deconditioning countermeasures, and NASA-STD-3001 physical fitness standards.
+AI Solution Overview
+Highlights the dual text cards with accompanying visual assets:
+"The project features heartbeat tracking and monitoring the astronaut's health, both psychological and physical." paired with an image of an astronaut floating in deep space against a blue nebula.
+"Our project relies on using a website-specific artificial intelligence, and this AI takes astronaut health data such as heart rate, begins analyzing it, and starts guiding the astronaut on how to solve this health problem." paired with a portrait of an astronaut looking through a spaceship observation window.
+Project Concept Brief Section
+Technical HUD callout frame featuring the core architecture explanation for the deep-space medical application and scotopic vision preservation.
+Interface and Data Details (Key Capabilities)
+Structured high-contrast HUD cards for all 7 subsystem pillars:
+Top Header & Telemetry (v3.2 MET clock & light-delay buffer)
+Personal Health Profile (Cmdr. Alex Vance, Dr. Elena Rostova, Specialist Marcus Chen presets)
+Medical Kit & Training (Smart pharmacy lockers & certification)
+AI Medical Assistant (Check My Health) (Guided 3-step symptom triage)
+Emergency SOS System (Audible siren, full-screen HUD & voice-free chips)
+Health Trends & Reporting (Longitudinal metrics & exportable telemetry)
+Multimodal & Bioscience Hub (openFDA, PubMed & neuro-acoustics)
+Dynamic Real-Time Telemetry Dashboard
+Ingests simulated live telemetry updating at periodic intervals.
+Real-time Canvas Lead-II ECG Waveform drawing an active cardiac tracing with cyan glow.
+Vitals readouts with tabular figures: Heart Rate, Blood Pressure (118/76 mmHg), SpO2 (99.4%), HRV (62 ms), Core Temp (36.9°C), and Respiration Rate.
+Environmental telemetry: Cabin pressure (101.3 kPa), ppO2 (21.2 kPa), ppCO2, and daily dosimetry (0.18 mSv/day).
+Quick-switch crew presets: Cmdr. Alex Vance, Dr. Elena Rostova, and Specialist Marcus Chen.
+15-Parameter Health Monitoring Matrix
+Dedicated interactive section covering all essential space medicine parameters:
+Space Radiation (Galactic cosmic rays & SPE dosimetry)
+Heart Rate & ECG (Vectorcardiography & arrhythmia detection)
+Blood Pressure (MAP & baroreceptor reflex resetting)
+Respiratory Health & Rate (ppCO2 & acoustic respiratory effort)
+Blood Oxygen (SpO2) (Multi-wavelength plethysmography)
+Immune System (Cytokine reactivity & viral reactivation)
+Skin Temperature (Dual-channel heat-flux thermometry)
+Body Fluid Changes (Cephalad fluid redistribution & bioimpedance)
+Bone & Muscle Health (DEXA Z-score & calcium excretion)
+Muscle Strength & Activity (In-shoe biometric load sensors & peak torque)
+Sleep & Behavioural Health (REM cycle tracking & neuro-acoustics)
+Mood, Stress & Cognitive Performance (PVT vigilance & autonomic RMSSD)
+Physical Activity (Daily 2.5-hour ARED & T2 cycle tracking)
+Vision Changes (SANS) (Optic nerve sheath diameter & OCT analysis)
+Nutrition & Hydration (Oral electrolyte salts & metabolic balance)
+Medical Training Module Preview
+Interactive multiple-choice NASA-STD-3001 First-Aid Quiz with immediate clinical validation, rationale explanations, and score tracking.
+Onboard smart pharmacy locker inventory tracking medication stock, expiration days, and clinical indications.
+Interactive Dashboard Preview Showcase
+Futuristic navigation header with all 5 requested tabs: My Health Profile, Medical Kit & Training, Check My Health (active by default), Emergency SOS (red accent), and Health History.
+Step 1 of 3: Primary Symptoms ("How are you feeling right now?") with selectable spaceflight conditions and severity toggles.
+Step 2: Biometric sensor telemetry import.
+Step 3: Gemini AI diagnostic assessment, differential diagnoses, and prescribed countermeasures (LBNP cycle, hydration, and locker medications).
+Audible Emergency SOS System & Web Audio Siren
+Browser-synthesized two-tone emergency siren (alternating 520Hz / 880Hz via Web Audio API) with mute/test controls.
+Voice-free status chips for rapid glove selection (Decompression, Cardiac Arrhythmia, Crew Incapacitation, Radiation Storm, Toxic Gas).
+Call-To-Action & Full Application Console
+Bottom banner with headline: "Experience ASTRA HEALTH Live System" and subtext: "Launch the AI-powered crew health guidance interface and explore real-time spaceflight medical telemetry."
+Prominent [ Launch ASTRA HEALTH App ] button that launches the comprehensive live ASTRA HEALTH cockpit modal with interactive clinical consultation, live waveforms, and Houston Mission Control export.
+flag
+Checkpoint
+make that i can switch to arabic language
+Gemini 3.8 Flash
+Ran for 7m 42s
+
+summarize_auto
+Action history
+chevron_right
+Here are key actions taken for the app:
+
+edit
+Edited 18 files
+src/i18n/translations.ts
+check_circle
+index.html
+check_circle
+src/index.css
+check_circle
+src/context/LanguageContext.tsx
+check_circle
+src/components/TopNav.tsx
+check_circle
+src/components/HeroBanner.tsx
+check_circle
+src/components/MissionObjective.tsx
+check_circle
+src/components/AISolutionOverview.tsx
+check_circle
+src/components/ConceptBrief.tsx
+check_circle
+src/components/CapabilitiesList.tsx
+check_circle
+src/components/LiveTelemetryDashboard.tsx
+check_circle
+src/components/HealthMonitoringMatrix.tsx
+check_circle
+src/components/MedicalTrainingModule.tsx
+check_circle
+src/components/InteractiveDashboardPreview.tsx
+check_circle
+src/components/CallToAction.tsx
+check_circle
+src/components/EmergencyModal.tsx
+check_circle
+src/components/AppConsoleModal.tsx
+check_circle
+src/App.tsx
+check_circle
+build
+Built
+Bilingual Arabic / English Support Enabled 🌐
+You can now toggle between العربية (Arabic) and English at any time using the language switch button located in the top navigation bar.
+What Was Implemented:
+Top Bar Language Switcher (العربية / EN):
+Seamless one-click toggle in the header with globe icon (Globe).
+Automatically sets document direction to RTL (dir="rtl") for Arabic and LTR (dir="ltr") for English.
+Dynamically loads and applies the Cairo typography family for Arabic headers and body text while preserving JetBrains Mono for spaceflight telemetry numbers.
+Accurate Space Medicine & Aerospace Arabic Translations:
+Mission & Objective:
+"يهدف مشروعنا إلى إنشاء نظام رياضي ولياقة بدنية للحفاظ على الصحة البدنية لرواد الفضاء وتحسين لياقتهم البدنية."
+AI Solution Overview:
+"يتميز المشروع بتتبع نبضات القلب ومراقبة صحة رائد الفضاء، سواء النفسية أو الجسدية."
+"يعتمد مشروعنا على استخدام ذكاء اصطناعي خاص بالموقع، حيث يأخذ هذا الذكاء بيانات صحة رائد الفضاء مثل معدل نبضات القلب، ويبدأ في تحليلها، ويرشد رائد الفضاء لكيفية حل هذه المشكلة الصحية."
+Project Concept Brief:
+"المشروع عبارة عن واجهة مستخدم (UI) لتطبيق طبي شامل مصمم لرواد الفضاء. هدفه الأساسي هو مراقبة صحتهم وحل المشكلات الطبية أثناء مهام الفضاء السحيق. تم تصميم التطبيق بمظهر تقني داكن (الوضع الداكن) مناسب لبيئة الفضاء."
+All 15 Spaceflight Health Parameters Translated:
+إشعاع الفضاء (Space Radiation)
+معدل ضربات القلب وتخطيط القلب (Heart Rate & ECG)
+ضغط الدم الشرياني (Blood Pressure)
+صحة ومعدل التنفس (Respiratory Health & Rate)
+أكسجين الدم (Blood Oxygen - SpO2)
+الجهاز المناعي (Immune System)
+حرارة الجلد وحرارة الجسم (Skin Temperature)
+تغيرات سوائل الجسم (Body Fluid Changes)
+صحة العظام والعضلات (Bone & Muscle Health)
+قوة ونشاط العضلات (Muscle Strength & Activity)
+النوم والصحة السلوكية (Sleep & Behavioural Health)
+المزاج، التوتر والأداء الإدراكي (Mood, Stress & Cognitive)
+النشاط البدني الرياضي (Physical Activity)
+تغيرات الرؤية العصبية البصرية (Vision Changes - SANS)
+التغذية وشرب السوائل والترطيب (Nutrition & Hydration)
+Interactive Dashboard & Training Modules in Arabic:
+3-Step Triage: الخطوة 1 من 3: الأعراض الأولية — "كيف تشعر الآن؟"، استيراد الحساسات البيومترية، والتشخيص السريري بذكاء Gemini.
+NASA-STD-3001 First-Aid Quiz: الأسئلة والسيناريوهات والخيارات والشروح السريرية باللغة العربية.
+Emergency SOS HUD: شرائح الحالة السريعة الفورية بدون صوت باللغة العربية.
+AI Console Modal: محادثة استشارية طبية حية باللغة العربية.
+flag
+Checkpoint
+add switdh language and add comfortable colors for space
+Gemini 3.8 Flash
+Ran for 3m 37s
+
+summarize_auto
+Action history
+chevron_right
+Here are key actions taken for the app:
+
+edit
+Edited 7 files
+src/i18n/translations.ts
+check_circle
+src/context/SpaceThemeContext.tsx
+check_circle
+src/index.css
+check_circle
+src/components/SpaceComfortControls.tsx
+check_circle
+src/components/TopNav.tsx
+check_circle
+src/components/FloatingSpaceControls.tsx
+check_circle
+src/App.tsx
+check_circle
+build
+Built
+Enhanced Language Switcher & Comfortable Space Colors 🌌
+We have added a prominent Language Switcher and a dedicated Space Comfort & Lighting Ergonomics System tailored for deep-space missions and eye comfort.
+What Was Added:
+1. Dual Prominent Language Switcher (EN | العربية)
+Top Navigation Bar: Prominent segmented control displaying both languages side-by-side ([ 🇺🇸 EN | 🇸🇦 العربية ]) with instant visual feedback on the active choice.
+Persistent Floating Quick-Switch Dock: A floating capsule at the bottom corner allowing 1-click language toggling (🇺🇸 EN ↔ 🇸🇦 العربية) from anywhere on the page without scrolling back up.
+Full RTL & Typography Optimization: Automatic document direction toggle (rtl / ltr) with the Cairo font family for Arabic and Plus Jakarta Sans / JetBrains Mono for English and telemetry metrics.
+2. Comfortable Colors for Space & Lighting Ergonomics (NASA-STD-3001)
+To protect astronauts from eye strain, circadian rhythm disruption, and screen glare across 16 orbital sunrises every 24 hours, four scientifically calibrated color spectra were added:
+Deep Space Cyan (490 nm - Standard Telemetry):
+Deep obsidian backing (#070A11), low-glare slate containers (#0E1524), and calibrated cyan telemetry phosphor (#06B6D4).
+Orbital Night Vision / Red-Shift (630 nm - Circadian Melatonin Protection):
+Deep cosmic burgundy (#090407) and crimson/rose phosphor (#F43F5E) eliminating blue wavelengths to preserve dark adaptation (scotopic vision) and natural sleep cycles during orbital night.
+Bio-Emerald Phosphor (555 nm - Peak Retinal Comfort):
+Deep soothing pine black (#040D08) and medical emerald green (#10B981) matching the human eye’s photopic sensitivity peak (
+ at 555 nm) to minimize eye fatigue during extended 12h+ shifts.
+Starlight Amber (590 nm - Aviation Glass Cockpit):
+Dark warm graphite (#0A0804) and warm aviation amber phosphor (#F59E0B) providing high contrast without harsh glare.
+3. Soft Anti-Glare Filter (Eye Comfort Mode)
+Instant Toggle: Softens sharp contrast edges, reduces pure white text to comfortable matte silver, and dims intense glowing effects for relaxed reading in darkened rooms.
+Accessible Everywhere: Available both in the top bar menu, the interactive Space Lighting Ergonomics Section, and the floating quick controls dock.
+flag
+Checkpoint
+make it like nasa app and add things from nasa old projects
+Gemini 3.8 Flash
+Ran for 4m 53s
+
+summarize_auto
+Action history
+chevron_right
+Here are key actions taken for the app:
+
+edit
+Edited 5 files
+src/utils/nasaQuindar.ts
+check_circle
+src/i18n/translations.ts
+check_circle
+src/components/NasaHeritageArchive.tsx
+check_circle
+src/components/TopNav.tsx
+check_circle
+src/App.tsx
+check_circle
+build
+Built
+ASTRA HEALTH (Autonomous Crew Health Guidance System) by Remontada
+The spaceflight clinical platform and presentation landing page has been updated with the NASA Mission Operations styling, historic flight project archives, and ergonomic color profiles.
+What Was Built & Enhanced
+NASA Flight Heritage Archive (#nasa-heritage)
+Apollo Quindar Intercom Audio Player: Integrates authentic Apollo S-band communication tones (2525 Hz intro / 2475 Hz outro) synthesized with the Web Audio API to reproduce ground-to-space transmissions.
+Deep Space Network (DSN) Real-Time Strip: Ground station telemetry monitors for Goldstone (DSS-14), Madrid (DSS-63), and Canberra (DSS-43) with simulated carrier frequencies and tracking lock.
+Apollo 11 vs. Modern ASTRA Comparison: Side-by-side archival cards contrasting the 1969 Apollo 11 canvas roll-up medical pack (Bio-Belt No. SEB-12100018-202, 12 morphine ampoules, 100% Earth-dependent S-band radio) with ASTRA’s edge AI diagnostic locker (NASA-STD-3001, RFID stock tracking, autonomous zero-delay triage).
+NASA Flight Medicine Chronology (1958–Present):
+Project Mercury (Friendship 7): First human orbital physiological baselines under 7.5G launch acceleration.
+Project Gemini (Gemini 7): 14-day microgravity endurance studies and the first bungee-cord in-flight exerciser.
+Apollo Program (11 & 13): Lunar surface metabolic monitoring and emergency life-support CO₂ scrubber reconfiguration.
+Skylab Orbital Workshop (Skylab 4): Birthplace of space sports science with cycle ergometers and Lower Body Negative Pressure (LBNP).
+Space Shuttle Program (STS-1 to STS-135): Space Motion Sickness (SMS) neuro-vestibular protocols and middeck medical kits.
+ISS & NASA Twins Study (Scott & Mark Kelly): Epigenetic alterations, telomeric dynamics, and carotid artery wall stiffening.
+Artemis & Deep Space Gateway: Autonomous clinical intelligence engineered for deep-space interplanetary cruises.
+Houston Mission Control (MCC-H) Bio-Consoles: Interactive stations for SURGEON, BME, EECOM, CAPCOM, and FLIGHT with live telemetry channels and flight-readiness statuses.
+Full Bilingual Support (English 🇺🇸 & Arabic 🇸🇦)
+Segmented language switcher in the top navigation bar and in a persistent floating dock.
+Complete translations for all 15 physiological parameters, NASA archives, first-aid quizzes, and HUD controls.
+Dynamic bidirectional switching (dir="rtl" in Arabic with the Cairo typography stack, and dir="ltr" in English).
+NASA-STD-3001 Space Lighting Ergonomics
+Deep Space Cyan: Standard telemetry contrast for dark cabins (#0A0E17).
+Orbital Night Vision: Melatonin-protective red-shift spectrum preventing circadian disruption during 16 orbital sunrises.
+Bio-Emerald Phosphor: High-contrast green HUD phosphor modeled after NASA optical display guidelines.
+Starlight Amber: Glass-cockpit amber for reduced asthenopia and relaxed visual scanning.
+Soft Anti-Glare Filter: Dims harsh light peaks for long operational shifts.
+15 Spaceflight Health & Mission Parameter Matrix
+Continuous telemetry for Space radiation, Heart rate & ECG, Blood pressure, Respiratory health & rate, Blood oxygen, Immune system, Skin temperature, Body fluid changes, Bone & muscle health, Muscle strength & activity, Sleep & behavioural health, Mood, stress & cognitive performance, Physical activity, Vision changes (SANS), and Nutrition & hydration.
+Mission Simulation & Interactive Modules
+Live canvas Lead-II ECG waveform generator with fluctuating vital signs.
+Interactive NASA-STD-3001 first-aid training quiz with scoring and explanations.
+Onboard pharmacy locker tracking RFID expiration dates and openFDA sync.
+Full-screen Emergency SOS System with a two-tone audible siren (520 Hz / 880 Hz) and voice-free status chips.
+Interactive ASTRA HEALTH App Console runtime with edge AI diagnostic triage.
+flag
+Checkpoint
+add nasa project
+Gemini 3.8 Flash
+Ran for 3m 32s
+
+summarize_auto
+Action history
+chevron_right
+Here are key actions taken for the app:
+
+edit
+Edited 2 files
+src/i18n/translations.ts
+check_circle
+src/components/NasaHeritageArchive.tsx
+check_circle
+build
+Built
+NASA Spaceflight Projects Expanded & Interactive Registry Added
+We have added new NASA spaceflight missions and an interactive Add NASA Project system to the NASA Spaceflight Medicine Heritage Archive (#nasa-heritage).
+Key Additions
+1. Five New NASA Spaceflight Projects Added to the Flight Archive
+Project Biosatellite (1966–1969)
+Mission: Biosatellite I, II & III
+Breakthrough: Evaluated ionizing radiation synergy and circadian clock desynchronization in living tissues without Earth photoperiod cues.
+ASTRA Evolution: Real-time cosmic ray dosimeter integration and predictive circadian photoperiod synchronization.
+Shuttle-Mir Program (1995–1998)
+Mission: NASA-Mir Phase 1 (STS-71 to STS-91)
+Breakthrough: Long-duration cross-cultural psychology and closed-environment microbial biofilm drift during extended stays.
+ASTRA Evolution: Bilingual voice-free psychological distress triage and onboard automated microbial bio-sensors.
+Neurolab Spacelab Mission (1998)
+Mission: STS-90 (Columbia Dedicated Neuro-Lab)
+Breakthrough: Proved mammalian central nervous system neuroplasticity, showing dynamic rewiring of spatial orientation pathways within 48 hours of weightlessness.
+ASTRA Evolution: Integrated neuro-acoustics sleep induction audio and autonomous vestibulo-ocular reflex calibration.
+NASA NEEMO Analog (2001–Present)
+Mission: Aquarius Reef Base (Key Largo, 20m Depth)
+Breakthrough: Tested surgical telementoring and 20-minute communication latency protocols, proving non-physician astronauts can execute complex clinical emergency procedures with step-by-step AI guidance.
+ASTRA Evolution: Step-by-step voice-guided interactive triage engine tailored for non-physician crew members.
+CHAPEA Mars Exploration Analog (2023–Present)
+Mission: Mars Dune Alpha 378-Day Mission at Johnson Space Center
+Breakthrough: Continuous 378-day Mars surface simulation with 22-minute light-speed communication delays, shelf-stable food rationing, and cognitive endurance testing.
+ASTRA Evolution: Closed-loop metabolic nutrition & hydration balance calculation with automated behavioral stress prediction.
+2. Interactive "+ Add NASA Project / Mission Case" Modal
+Direct UI Action: A prominent button in the archive header allows users and astronauts to log any past, current, or proposed NASA mission into the flight database.
+Custom Mission Registry:
+Input fields for: Project/Mission Name, Era/Operational Years, Key Mission, Biomedical Breakthrough, Flight Surgeon Finding, Spaceflight Hardware, and ASTRA HEALTH Evolution.
+4 Quick-Import Presets:
++ NASA HERA Analog (Human Exploration Research Analog 45-day campaigns)
++ Project Constellation (Orion & Altair lunar module vibration mitigation)
++ NASA Rodent Research (RR) (Molecular bone osteoclast & muscle atrophy pathways)
++ Deep Space Optical Comm (DSOC) (267 Mbps broadband telemedicine laser from 220 million km)
+Persistent Storage: Registered missions are automatically saved to localStorage and highlighted with a distinct ★ Custom Registered Mission badge, with one-click deletion available.
+3. Era Filter Toolbar
+Quick filters to browse missions across spaceflight eras:
+All Eras (12+ built-in + user-registered projects)
+Early Era (1958–1975): Mercury, Gemini, Biosatellite, Apollo, Skylab
+Shuttle & Stations (1981–2019): Space Shuttle, Shuttle-Mir, Neurolab, NEEMO, Twins Study
+Deep Space & Analogs (2020+): CHAPEA Mars, Artemis & Deep Space Gateway, custom additions
+4. Full Bilingual Synchronization (EN 🇺🇸 / AR 🇸🇦)
+All newly added NASA projects, modal fields, and quick-import presets are fully translated with support for Arabic right-to-left layout (dir="rtl").
